@@ -7,6 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("hello xidada 习大大");
+        System.out.println("我是习大大");
 
     }
 }
