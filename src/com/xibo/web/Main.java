@@ -6,7 +6,7 @@ package com.xibo.web;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("hello xidada");
+        System.out.println("hello xidada 习大大");
 
     }
 }
